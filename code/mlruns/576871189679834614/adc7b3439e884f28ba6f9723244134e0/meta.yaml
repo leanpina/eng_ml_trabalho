@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/anaconda-devcontainer/infnet/eng_ml_trabalho/code/mlruns/576871189679834614/adc7b3439e884f28ba6f9723244134e0/artifacts
+end_time: 1713623603471
+entry_point_name: ''
+experiment_id: '576871189679834614'
+lifecycle_stage: active
+run_id: adc7b3439e884f28ba6f9723244134e0
+run_name: PipelineAplicacao
+run_uuid: adc7b3439e884f28ba6f9723244134e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713623603464
+status: 3
+tags: []
+user_id: vscode

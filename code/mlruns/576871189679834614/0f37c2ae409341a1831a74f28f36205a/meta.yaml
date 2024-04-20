@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/anaconda-devcontainer/infnet/eng_ml_trabalho/code/mlruns/576871189679834614/0f37c2ae409341a1831a74f28f36205a/artifacts
+end_time: 1713574376761
+entry_point_name: ''
+experiment_id: '576871189679834614'
+lifecycle_stage: active
+run_id: 0f37c2ae409341a1831a74f28f36205a
+run_name: Preparacao
+run_uuid: 0f37c2ae409341a1831a74f28f36205a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713574376755
+status: 3
+tags: []
+user_id: vscode

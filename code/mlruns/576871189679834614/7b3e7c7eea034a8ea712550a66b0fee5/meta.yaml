@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/anaconda-devcontainer/infnet/eng_ml_trabalho/code/mlruns/576871189679834614/7b3e7c7eea034a8ea712550a66b0fee5/artifacts
+end_time: 1713574403067
+entry_point_name: ''
+experiment_id: '576871189679834614'
+lifecycle_stage: active
+run_id: 7b3e7c7eea034a8ea712550a66b0fee5
+run_name: Treinamento
+run_uuid: 7b3e7c7eea034a8ea712550a66b0fee5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713574392653
+status: 3
+tags: []
+user_id: vscode
